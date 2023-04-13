@@ -1,4 +1,8 @@
-header {
+.cabeçalho {
     background-color: #0000;
+    color: white;
+}
+.Historia {
+    background-image: linear-gradient(#8a1e1e, #d277d2);
     color: white;
 }
